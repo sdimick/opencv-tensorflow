@@ -27,3 +27,13 @@
 * *Lunch*
 2. OpenCV and TensorFlow
 3. Build Something
+
+--------------------------------------------------------------------------------
+
+## Progress...
+
+__Saw the cat knock over her food bowl...__
+![](funny3.jpeg)
+![](funny4.jpeg)
+![](funny5.jpeg)
+
